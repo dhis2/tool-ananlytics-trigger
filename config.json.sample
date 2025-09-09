@@ -1,0 +1,16 @@
+{
+  "dhis": {
+    "base_url": "https://play.im.dhis2.org/stable-2-42-1",
+    "token": "d2p_iW6sSUjcXECsPfQ3abxFKDwFYTPp7KRJLi1sSsy2TMNX2t36rU",
+    "verify_ssl": true,
+    "timeout_seconds": 60
+  },
+  "alerting": {
+    "webhook_url": null,
+    "only_on_failure": false ,
+     "telegram": {
+    "bot_token": "123456:ABCDEF...",
+    "chat_id": "XXXXXXXXXXXXXXXXXX"
+  }
+  }
+}
